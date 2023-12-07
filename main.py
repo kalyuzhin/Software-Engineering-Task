@@ -1,8 +1,12 @@
-def main() -> None:
-    print("Hello World!", end="")
-    print("!")
-    Сломал билд
+def print_func() -> str:
+    # print("Hello World!", end="")
+    # print("!")
+    return "Hello World!!"
 
 
-if (__name__ == "__main__"):
+def main():
+    print_func()
+
+
+if __name__ == "__main__":
     main()
