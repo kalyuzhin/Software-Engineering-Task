@@ -1,7 +1,7 @@
 def print_func() -> str:
     # print("Hello World!", end="")
     # print("!")
-    return "Hello World!"
+    return "Hello World!!"
 
 
 def main():
